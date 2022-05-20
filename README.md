@@ -36,13 +36,8 @@
 <div>
 <h1 style="color:red" align="center"> About Us </h1>
 
-<p><b>T34m V18rs ( Team Virus ) is a Bangladeshi FB Spamming & Termux Hacker Group..We make working tools for termux..You can reach us by visiting this links.. Thank You So Much For Using Our Tool(s)</b></p>
 
-<p style="color:purple"><b>Connect With Us:</b></p>
-
-``(Tap To Redirect)``
-
-
+<p 
 <h3 style="color:purple"> THANKS FOR USING OUR TOOL </h3>
 
 ``©Sorrok-Exploit``
